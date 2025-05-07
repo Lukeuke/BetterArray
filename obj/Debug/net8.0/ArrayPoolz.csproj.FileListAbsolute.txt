@@ -1,0 +1,14 @@
+C:\Users\Luuqe\RiderProjects\ArrayPoolz\bin\Debug\net8.0\ArrayPoolz.exe
+C:\Users\Luuqe\RiderProjects\ArrayPoolz\bin\Debug\net8.0\ArrayPoolz.deps.json
+C:\Users\Luuqe\RiderProjects\ArrayPoolz\bin\Debug\net8.0\ArrayPoolz.runtimeconfig.json
+C:\Users\Luuqe\RiderProjects\ArrayPoolz\bin\Debug\net8.0\ArrayPoolz.dll
+C:\Users\Luuqe\RiderProjects\ArrayPoolz\bin\Debug\net8.0\ArrayPoolz.pdb
+C:\Users\Luuqe\RiderProjects\ArrayPoolz\obj\Debug\net8.0\ArrayPoolz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luuqe\RiderProjects\ArrayPoolz\obj\Debug\net8.0\ArrayPoolz.AssemblyInfoInputs.cache
+C:\Users\Luuqe\RiderProjects\ArrayPoolz\obj\Debug\net8.0\ArrayPoolz.AssemblyInfo.cs
+C:\Users\Luuqe\RiderProjects\ArrayPoolz\obj\Debug\net8.0\ArrayPoolz.csproj.CoreCompileInputs.cache
+C:\Users\Luuqe\RiderProjects\ArrayPoolz\obj\Debug\net8.0\ArrayPoolz.dll
+C:\Users\Luuqe\RiderProjects\ArrayPoolz\obj\Debug\net8.0\refint\ArrayPoolz.dll
+C:\Users\Luuqe\RiderProjects\ArrayPoolz\obj\Debug\net8.0\ArrayPoolz.pdb
+C:\Users\Luuqe\RiderProjects\ArrayPoolz\obj\Debug\net8.0\ArrayPoolz.genruntimeconfig.cache
+C:\Users\Luuqe\RiderProjects\ArrayPoolz\obj\Debug\net8.0\ref\ArrayPoolz.dll
